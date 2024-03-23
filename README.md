@@ -1,30 +1,30 @@
-Android Asset Studio
+Estudio de activos de Android
 ====================
 
-**[Open the Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)**
+**[Abra Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)**
 
-**[See the older version](https://romannurik.github.io/AndroidAssetStudio/older-version/) if you're having trouble with the new version**
+**[Ver la versión anterior](https://romannurik.github.io/AndroidAssetStudio/older-version/) si tienes problemas con la nueva versión**
 
-A web-based set of tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
+Un conjunto de herramientas basado en web para generar gráficos y otros activos que eventualmente estarían en el directorio res/ de una aplicación de Android.
 
-Currently available asset generators are for:
+Los generadores de activos disponibles actualmente son para:
 
-- Launcher icons
-- Action bar icons
-- Notification icons
-- Generic square icons
-- Simple nine-patches
+- Iconos del iniciador
+- Iconos de la barra de acciones
+- Iconos de notificación
+- Iconos cuadrados genéricos
+- Nueve parches simples
 
-## Building the tool
+## Construyendo la herramienta
 
-To build, ensure you have `node` and `npm` installed, and run:
+Para compilar, asegúrese de tener instalados `node` y `npm`, y ejecute:
 
     $ npm install
 
-Once dependencies are installed, run with `gulp`:
+Una vez instaladas las dependencias, ejecute con `gulp`:
 
     $ gulp serve
 
-## Related (third-party) projects
+## Proyectos relacionados (de terceros)
 
 - [Android Asset Studio Desktop Apps](https://androidassetstudio.codeplex.com/)
